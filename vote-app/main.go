@@ -28,8 +28,6 @@ const (
 	chaincodeName = "basic"
 )
 
-var now = time.Now()
-
 func main() {
 	log.Println("============ application-golang starts ============")
 
